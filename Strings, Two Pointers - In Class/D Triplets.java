@@ -1,0 +1,39 @@
+import java.io.*; // for handling input/output
+import java.util.*; // contains Collections framework
+
+// don't change the name of this class
+// you can add inner classes if needed
+class Main {
+    public static void main (String[] args) {
+// Your code here
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
+        long p = sc.nextLong();
+        long a[] = new long [n];
+        for (int i=0; i<n;i++)
+        {
+            a[i] = sc.nextLong();
+        }
+        Arrays.sort(a);
+        int i = 0, j=2;
+        long ans = 0;
+        while(j!=n){
+            if(i==j-1)
+            {
+                j++;
+                continue;
+            }
+            if(a[j]-a[i]>p)
+            {
+                i++;
+                }
+            else
+            {
+                int x = j-i;
+                ans+=(x*(x-1))/2;
+                j++;
+            }                                                                                                                                                                                                                                                        
+        }
+        System.out.println(ans);
+    }
+}
