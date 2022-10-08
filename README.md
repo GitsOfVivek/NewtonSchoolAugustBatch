@@ -1,8 +1,33 @@
-# Newton School - August Batch
-I update here, my all assignment solution for future referance.
+# Hi, I'm ViveK! 👋
+- You  can connect me by this
+- GitHub: https://github.com/GitsOfVivek/
+- LeetCode: https://leetcode.com/LeetOfVivek/
+- LinkedIn: https://www.linkedin.com/in/vivek9999/
 
-GitHub: https://github.com/GitsOfVivek/
+This is **Newton School - August Batch** Assignment code page.
 
-LeetCode: https://leetcode.com/LeetOfVivek/
+## 🚀 About Me
 
-LinkedIn: https://www.linkedin.com/in/vivek9999/
+- Full Stack Developer
+- Data Structure & Algorithm
+## Authors
+
+- [@GitsOfVivek](https://www.github.com/GitsOfVivek)
+
+
+## Badges
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/GitsOfVivek/MyPortfolio/blob/main/LICENSE)
+
+
+## Contributing
+
+Contributions are always welcome!
+
+See `contributing.md` for ways to get started.
+
+Please adhere to this project's `code of conduct`.
+
+
+## 🛠 Skills
+``Javascript``, ``HTML``, ``CSS``, ``Java``, ``DSA``, and manny more going to added here..
+
