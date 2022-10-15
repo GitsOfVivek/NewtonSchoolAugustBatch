@@ -19,15 +19,6 @@ This is **Newton School - August Batch** Assignment code page.
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/GitsOfVivek/MyPortfolio/blob/main/LICENSE)
 
 
-## Contributing
-
-Contributions are always welcome!
-
-See `contributing.md` for ways to get started.
-
-Please adhere to this project's `code of conduct`.
-
-
 ## 🛠 Skills
 ``Javascript``, ``HTML``, ``CSS``, ``Java``, ``DSA``, and manny more going to added here..
 
