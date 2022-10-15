@@ -8,10 +8,10 @@
   > **Answer :** 
 
  > ### Explain hashing and time complexity of hashing.
-  > **Answer :** 
+  > **Answer :** O(1)
 
  > ### What is the time complexity of bubblesort and binarysearch.
-  > **Answer :**
+  > **Answer :** Bubble Sort : O(N<sup>2</sup>) & Binary Search : O(log<sub>2</sub>N)
 
 
 > ### Given a Boolean 2D array, find the index of row that has maximum number of 1s.
