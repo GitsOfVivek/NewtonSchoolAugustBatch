@@ -6,34 +6,15 @@
 
 class Main{
     public static void main(String[] args) {
-        int[][] arr = {
-                        {0, 1, 0},
-                        {0, 0, 0},
-                        {1, 1, 1}
-                    };
-         int r = 3;
-         int c = 3;
-
-       int[] a = new int[r];
-       for(int i = 0; i < r; i++) {
-           int count = 0;
-           for(int j = 0; j < c; j++) {
-               if(arr[i][j] == 1) {
-                   count++;
-               }
-           }
-           a[i] = count;
+       int[] arr = {1, 2, 3, 4, 5};
+       int n = arr.length;
+       for(int i = 0; i <= n / 2; i++) {
+           int temp = arr[i];
+           arr[i] = arr[n - 1 - i];
+           arr[n - 1 - i] = temp;
        }
-       // a = {1, 0, 3};
-       int max = 0;
-       for(int i = 0; i < r; i++)  {
-           max = Math.max(max, a[i]);
-       }
-       for(int i = 0; i < r; i++) {
-           if(max == a[i]) {
-               System.out.println(i);
-               break;
-           }
+       for(int i = 0; i < n; i++) {
+           System.out.println(i);
        }
     } 
 }
