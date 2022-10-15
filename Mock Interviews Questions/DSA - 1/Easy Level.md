@@ -1,6 +1,6 @@
 # Questions asked in DSA - 1 (Easy Level)
 
-> ### Take an Array as input, Reverse it and Print it.
+> ### Take an Array, Reverse it and Print it.
 
 ```java
 
