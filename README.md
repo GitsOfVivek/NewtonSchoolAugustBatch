@@ -4,7 +4,7 @@
 - LeetCode: https://leetcode.com/LeetOfVivek/
 - LinkedIn: https://www.linkedin.com/in/vivek9999/
 
-This is **Newton School - August Batch** Assignment code page.
+This is **Newton School - August Batch - 2022** Assignment code page.
 
 ## 🚀 About Me
 
