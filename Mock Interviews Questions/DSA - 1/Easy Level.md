@@ -43,5 +43,5 @@ class Main{
 
 ```
  
- > ### What id the Time Complexity of Bubble Sort?
+ > ### What is the Time Complexity of Bubble Sort?
   > **Answer :** O(N<sup>2</sup>)
